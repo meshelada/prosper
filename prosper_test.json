@@ -13,12 +13,12 @@
       "end_date":"2019-11-12",
       "form_order":[
          {
-            "key":"coupons",
-            "display":false,
+            "key":"faq",
+            "display":true,
             "space":false
          },
          {
-            "key":"p0",
+            "key":"articles",
             "display":true,
             "space":false
          },
@@ -31,93 +31,22 @@
             "key":"p2",
             "display":true,
             "space":false
-         },
-         {
-            "key":"p3",
-            "display":true,
-            "space":true
-         },
-         {
-            "key":"c1",
-            "display":true,
-            "space":true
-         },
-         {
-            "key":"c2",
-            "display":true,
-            "space":false
-         },
-         {
-            "key":"c3",
-            "display":true,
-            "space":false
-         },
-         {
-            "key":"c4",
-            "display":true,
-            "space":false
-         },
-         {
-            "key":"d2",
-            "display":false,
-            "space":true
-         },
-         {
-            "key":"survey",
-            "display":false,
-            "space":false
-         },
-         {
-            "key":"t1",
-            "display":true,
-            "space":true
          }
       ],
-      "p0":{
+      "p0":{  
          "display":true,
-         "headline":"Checkout These Deals, Just for You",
+         "headline":"Learning center",
          "headline_color":null,
          "headline_size":0
       },
-      "h1":{
-         "logo_url":{
+      "h1":{  
+         "logo_url":{  
             "label":"Logo URL",
-            "url":"https://www.joann.com/"
+            "url":"img/logo-nerdwallet.png"
          },
-         "header_nav_1":{
-            "label":"Header Nav 1",
-            "text":"FABRIC",
-            "url":"https://www.joann.com/fabric/"
-         },
-         "header_nav_2":{
-            "label":"Header Nav 2",
-            "text":"ART SUPPLIES &amp; PAINTING",
-            "url":"https://www.joann.com/art-supplies-and-painting/"
-         },
-         "header_nav_3":{
-            "label":"Header Nav 3",
-            "text":"CRAFTS &amp; HOBBIES",
-            "url":"https://www.joann.com/crafts-hobbies/"
-         },
-         "header_nav_4":{
-            "label":"Header Nav 4",
-            "text":"SALE &amp; CLEARANCE",
-            "url":"https://www.joann.com/clearance/"
-         },
-         "header_nav_5":{
-            "label":"Header Nav 5",
-            "text":"HOME DECOR",
-            "url":"https://www.joann.com/home-decor/"
-         },
-         "weekly_ad":{
-            "label":"Weekly Ad",
-            "text":"Weekly Ad",
-            "url":"http://joann.shoplocal.com/Joann"
-         },
-         "buy_in_bulk":{
-            "label":"Buy in Bulk",
-            "text":"Buy in Bulk",
-            "url":"http://plus.joann.com/"
+         "header":{  
+            "label":"Header",
+            "text":"Learning center"
          }
       },
       "p1":{
