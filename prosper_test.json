@@ -37,14 +37,6 @@
          "display":true,
          "headline":"Learning center",
       },
-      "h2":{  
-         "display":true,
-         "headline":"articles",
-      },
-      "sponser_logo":{  
-         "display":true,
-         "background_img_url":"img/logo-nerdwallet.png",
-      },
       "p1":{
          "display":true,
          "space":false,
