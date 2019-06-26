@@ -83,7 +83,6 @@
       },
       "p1":{
          "display":true,
-         "headline":"Learning center",
          "background_img_url": "img/logo-mint.png",
          "headline": "Do you like Mint?",
          "subheadline": "You should like Mint!",
@@ -93,10 +92,14 @@
          "cta2_copy":"Log in to Mint right now"
       },
       "p2":{
-         "display":true,
-         "footer_text":null,
-         "cta_url":"https://www.google.com/flights",
-         "cta2_url":"https://www.google.com/flights"
+        "display":true,
+        "background_img_url": "img/logo-mint.png",
+        "headline": "What about Chime?",
+        "subheadline": "You should like Chime!",
+        "cta_url":"https://www.google.com/flights",
+        "cta_copy":"Sign up for Chime right now",
+        "cta2_url":"https://www.google.com/flights",
+        "cta2_copy":"Log in to Chime right now"
       },
       "created_dt":"2018-05-18T16:14:37.571Z",
       "updated_dt":"2019-03-07T16:11:00.474Z",
