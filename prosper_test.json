@@ -13,16 +13,6 @@
       "end_date":"2019-11-12",
       "form_order":[
          {
-            "key":"faq",
-            "display":true,
-            "space":false
-         },
-         {
-            "key":"articles",
-            "display":true,
-            "space":false
-         },
-         {
             "key":"p1",
             "display":true,
             "space":false
@@ -91,16 +81,13 @@
           }
         ]
       },
-      "h1":{
+      "p1":{
          "display":true,
          "headline":"Learning center"
       },
-      "t1":{
+      "p2":{
          "display":true,
          "footer_text":null
-      },
-      "f1":{
-         "footer_text":"<span>&copy; 2007-2018 JO-ANN STORES, LLC.</span><span>5555 DARROW RD.</span> <span>HUDSON, OH 44236 UNITED STATES.</span> All rights reserved. <a href=\"http://www.joann.com\">JOANN.COM</a>&copy; and <a href=\"http://plus.joann.com\">plus.joann.com</a>&reg; are&nbsp;registered&nbsp;trademarks of Jo&#8209;Ann&nbsp;Stores,&nbsp;LLC."
       },
       "created_dt":"2018-05-18T16:14:37.571Z",
       "updated_dt":"2019-03-07T16:11:00.474Z",
