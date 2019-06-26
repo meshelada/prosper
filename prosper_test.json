@@ -12,13 +12,13 @@
       "tracking_code":null,
       "end_date":"2019-11-12",
       "form_order":[
+        {
+           "key":"p2",
+           "display":true,
+           "space":false
+        },
          {
             "key":"p1",
-            "display":true,
-            "space":false
-         },
-         {
-            "key":"p2",
             "display":true,
             "space":false
          }
