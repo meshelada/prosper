@@ -93,7 +93,7 @@
       },
       "p2":{
         "display":true,
-        "background_img_url": "img/logo-mint.png",
+        "background_img_url": "img/logo-chime.png",
         "headline": "What about Chime?",
         "subheadline": "You should like Chime!",
         "cta_url":"https://www.google.com/flights",
