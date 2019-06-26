@@ -11,31 +11,6 @@
       "samples_count":null,
       "tracking_code":null,
       "end_date":"2019-11-12",
-      "primary": {
-        "display": true,
-        "headline": "Meshels amazing article",
-        "subheadline": "Read this amazing article!",
-        "headline_color": null,
-        "headline_size": 0,
-        "provided_logo": "www.nerdwalletlogo.com",
-        "article_info": [
-          { "article_title": "Article Title", "article_subtitle": "subtitle, with more context about this article", "article_url":"www.google.com" },
-          { "article_title": "Article Title", "article_subtitle": "subtitle, with more context about this article", "article_url":"ww.google.com" },
-          { "article_title": "Article Title", "article_subtitle": "subtitle, with more context about this article", "article_url":"www.google.com" }
-        ]
-      },
-      "articles": {
-        "display": true,
-        "headline": "More articles",
-        "headline_color": null,
-        "headline_size": 0,
-        "background_img_url": "img/logo-nerdwallet.png",
-        "items": [
-          { "headline": "Article Title 1", "subheadline": "Extra, extra read all about it!", "article_url":"www.google.com" },
-          { "headline": "Article Title 2", "subheadline": "Read this NOW!", "article_url":"ww.google.com" },
-          { "headline": "Article Title 3", "subheadline": "This is the best article of all time!!!!", "article_url":"www.google.com" }
-        ]
-      },
       "form_order":[
          {
             "key":"faq",
@@ -58,6 +33,25 @@
             "space":false
          }
       ],
+      "primary": {
+        "display": true,
+        "headline": "Meshels amazing article",
+        "subheadline": "Read this amazing article!",
+        "headline_color": null,
+        "headline_size": 0
+      },
+      "articles": {
+        "display": true,
+        "headline": "More articles",
+        "headline_color": null,
+        "headline_size": 0,
+        "background_img_url": "img/logo-nerdwallet.png",
+        "items": [
+          { "headline": "Article Title 1", "subheadline": "Extra, extra read all about it!", "cta_url":"www.google.com" },
+          { "headline": "Article Title 2", "subheadline": "Read this NOW!", "cta_url":"ww.google.com" },
+          { "headline": "Article Title 3", "subheadline": "This is the best article of all time!!!!", "cta_url":"www.google.com" }
+        ]
+      },
       "h1":{
          "display":true,
          "headline":"Learning center"
