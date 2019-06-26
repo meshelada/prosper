@@ -83,11 +83,20 @@
       },
       "p1":{
          "display":true,
-         "headline":"Learning center"
+         "headline":"Learning center",
+         "background_img_url": "img/logo-mint.png",
+         "headline": "Do you like Mint?",
+         "subheadline": "You should like Mint!",
+         "cta_url":"https://www.google.com/flights",
+         "cta_copy":"Sign up for Mint right now",
+         "cta2_url":"https://www.google.com/flights",
+         "cta2_copy":"Log in to Mint right now"
       },
       "p2":{
          "display":true,
-         "footer_text":null
+         "footer_text":null,
+         "cta_url":"https://www.google.com/flights",
+         "cta2_url":"https://www.google.com/flights"
       },
       "created_dt":"2018-05-18T16:14:37.571Z",
       "updated_dt":"2019-03-07T16:11:00.474Z",
