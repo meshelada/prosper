@@ -14,7 +14,7 @@
       "primary": {
         "display": true,
         "headline": "Meshels amazing article",
-        "sub_headline": "Read this amazing article!",
+        "subheadline": "Read this amazing article!",
         "headline_color": null,
         "headline_size": 0,
         "provided_logo": "www.nerdwalletlogo.com",
@@ -29,11 +29,11 @@
         "headline": "More articles",
         "headline_color": null,
         "headline_size": 0,
-        "provided_logo": "img/logo-nerdwallet.png",
-        "article_info": [
-          { "article_title": "Article Title", "article_subtitle": "subtitle, with more context about this article", "article_url":"www.google.com" },
-          { "article_title": "Article Title", "article_subtitle": "subtitle, with more context about this article", "article_url":"ww.google.com" },
-          { "article_title": "Article Title", "article_subtitle": "subtitle, with more context about this article", "article_url":"www.google.com" }
+        "background_img_url": "img/logo-nerdwallet.png",
+        "items": [
+          { "headline": "Article Title 1", "subheadline": "Extra, extra read all about it!", "article_url":"www.google.com" },
+          { "headline": "Article Title 2", "subheadline": "Read this NOW!", "article_url":"ww.google.com" },
+          { "headline": "Article Title 3", "subheadline": "This is the best article of all time!!!!", "article_url":"www.google.com" }
         ]
       },
       "form_order":[
