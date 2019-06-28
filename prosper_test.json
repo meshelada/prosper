@@ -29,28 +29,12 @@
         "subheadline": "Read this amazing article!",
         "headline_color": null,
         "headline_size": 0,
-        "items": [
-          {
-            "body_copy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget ex nulla. Duis maximus, diam non ullamcorper tincidunt, quam libero auctor tellus, vel congue mauris quam ut eros. Maecenas molestie erat mi. Curabitur pretium lacus vitae diam gravida, non ornare lacus tincidunt. Maecenas libero leo, volutpat eu erat eu, tempus feugiat augue. Curabitur quis gravida eros, aliquam posuere arcu. Pellentesque congue augue non eros facilisis pretium. Suspendisse non nunc pulvinar, porta dolor at, tempor purus. Aliquam sit amet finibus erat. Nunc et rhoncus urna. Maecenas semper mauris ac tempus interdum. Sed quis condimentum velit, quis hendrerit felis. Pellentesque pulvinar ipsum et elementum sodales. Pellentesque efficitur quis nulla non tristique. Nullam sapien ligula, aliquam id eros nec, tempor elementum ante.",
-            "background_img_url": null
-          },
-          {
-            "body_copy": "Quisque iaculis quis nisl et scelerisque. Phasellus vel malesuada sapien. Donec dignissim, orci eu cursus scelerisque, nisi urna fringilla nulla, non vulputate diam massa in arcu. Cras tempus a tellus nec faucibus. Ut nec quam malesuada dolor tempor pellentesque id ut nulla. Duis eu leo ut eros iaculis sodales. Donec elit dolor, ullamcorper et commodo non, porta vel tortor. Sed sed placerat tellus, quis sagittis eros. Nullam a iaculis nunc. Morbi efficitur libero ac est porttitor, ac aliquet est sagittis. Mauris non erat eget purus vestibulum malesuada nec sed tortor. Nullam pellentesque mi nec nulla convallis feugiat. Vivamus feugiat lectus at purus suscipit dictum. Nulla ullamcorper scelerisque leo, in pretium ante.",
-            "background_img_url": null
-          },
-          {
-            "body_copy": "Fusce ultrices nisi sed dictum vehicula. Integer eu dignissim ligula. Nunc aliquam porttitor purus sed vestibulum. Phasellus a purus at arcu tempor rutrum vel quis ex. Quisque ac lectus scelerisque mi vehicula malesuada. Nulla non maximus neque. Integer tempus fringilla faucibus. In volutpat dolor a consectetur molestie. Praesent tempus ut est vitae rhoncus.",
-            "background_img_url": null
-          },
-          {
-            "body_copy": null,
-            "background_img_url": "https://www.nationalgeographic.com/content/dam/travel/Guide-Pages/north-america/mexico-city-travel.jpg"
-          },
-          {
-            "body_copy": "Nam fringilla nisi est, ut sodales libero efficitur interdum. Vivamus cursus leo vel orci accumsan tristique. Curabitur nunc est, ornare et erat et, tincidunt porta nisi. In aliquam tortor sed dolor elementum tempor. Duis et metus ipsum. Vestibulum sollicitudin pharetra sem, id commodo turpis placerat sed. Mauris lorem tellus, congue et leo nec, feugiat lobortis eros. Maecenas cursus sodales elit id pharetra. Maecenas accumsan consectetur lacus id porta. Nulla pretium et risus ac accumsan. Morbi ultricies euismod urna, sit amet gravida mi porta vel. Morbi vitae erat vulputate, semper justo ac, porta felis. Pellentesque id dapibus dui, sed ullamcorper quam. Fusce sed leo commodo, varius velit pharetra, ultrices ipsum. Maecenas ac diam sit amet nisl placerat auctor in a ipsum.",
-            "background_img_url": null
-          }
-        ]
+        "body_copy_top": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget ex nulla. Duis maximus, diam non ullamcorper tincidunt, quam libero auctor tellus, vel congue mauris quam ut eros. Maecenas molestie erat mi. Curabitur pretium lacus vitae diam gravida, non ornare lacus tincidunt. Maecenas libero leo, volutpat eu erat eu, tempus feugiat augue. Curabitur quis gravida eros, aliquam posuere arcu. </p>
+        <p>Pellentesque congue augue non eros facilisis pretium. Suspendisse non nunc pulvinar, porta dolor at, tempor purus. Aliquam sit amet finibus erat. Nunc et rhoncus urna. Maecenas semper mauris ac tempus interdum. Sed quis condimentum velit, quis hendrerit felis. Pellentesque pulvinar ipsum et elementum sodales. Pellentesque efficitur quis nulla non tristique. Nullam sapien ligula, aliquam id eros nec, tempor elementum ante.</p>",
+        "background_img_url": "https://www.nationalgeographic.com/content/dam/travel/Guide-Pages/north-america/mexico-city-travel.jpg",
+        "body_copy_bottom": "<p>Nam fringilla nisi est, ut sodales libero efficitur interdum. Vivamus cursus leo vel orci accumsan tristique. Curabitur nunc est, ornare et erat et, tincidunt porta nisi. </p>
+        <p>In aliquam tortor sed dolor elementum tempor. Duis et metus ipsum. Vestibulum sollicitudin pharetra sem, id commodo turpis placerat sed. Mauris lorem tellus, congue et leo nec, feugiat lobortis eros. Maecenas cursus sodales elit id pharetra. Maecenas accumsan consectetur lacus id porta. Nulla pretium et risus ac accumsan.</p>
+        <p>Morbi ultricies euismod urna, sit amet gravida mi porta vel. Morbi vitae erat vulputate, semper justo ac, porta felis. Pellentesque id dapibus dui, sed ullamcorper quam. Fusce sed leo commodo, varius velit pharetra, ultrices ipsum. Maecenas ac diam sit amet nisl placerat auctor in a ipsum.</p>"
       },
       "articles": {
         "display": true,
@@ -83,9 +67,9 @@
       },
       "p1":{
          "display":true,
-         "background_img_url": "img/logo-mint.png",
+         "logo": "img/logo-mint.png",
          "headline": "Do you like Mint?",
-         "subheadline": "You should like Mint!",
+         "body_copy": "You should like Mint!",
          "cta_url":"https://www.google.com/flights",
          "cta_copy":"Sign up for Mint right now",
          "cta2_url":"https://www.google.com/flights",
