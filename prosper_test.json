@@ -77,9 +77,9 @@
                 },
                 {
                     "module_type": "b",
-                    "background_img_url": "img/logo-chime.png",
+                    "logo": "img/logo-chime.png",
                     "headline": "What about Chime?",
-                    "subheadline": "You should like Chime!",
+                    "body_copy": "You should like Chime!",
                     "cta_url": "https://www.google.com/flights",
                     "cta_copy": "Sign up for Chime right now",
                     "cta2_url": "https://www.google.com/flights",
