@@ -11,18 +11,6 @@
         "samples_count": null,
         "tracking_code": null,
         "end_date": "2019-11-12",
-        "form_order": [
-            {
-                "key": "p2",
-                "display": true,
-                "space": false
-            },
-            {
-                "key": "p1",
-                "display": true,
-                "space": false
-            }
-        ],
         "primary": {
             "display": true,
             "headline": "Meshel's amazing article",
@@ -72,8 +60,10 @@
                     "body_copy": "You should like Mint!",
                     "cta_url": "https://www.google.com/flights",
                     "cta_copy": "Sign up for Mint right now",
+                    "cta_copy_color":"#008f00",
                     "cta2_url": "https://www.google.com/flights",
-                    "cta2_copy": "Log in to Mint right now"
+                    "cta2_copy": "Log in to Mint right now",
+                    "cta2_copy_color":"#a61802",
                 },
                 {
                     "module_type": "b",
@@ -82,8 +72,10 @@
                     "body_copy": "You should like Chime!",
                     "cta_url": "https://www.google.com/flights",
                     "cta_copy": "Sign up for Chime right now",
+                    "cta_copy_color":"#a61802",
                     "cta2_url": "https://www.google.com/flights",
-                    "cta2_copy": "Log in to Chime right now"
+                    "cta2_copy": "Log in to Chime right now",
+                    "cta2_copy_color":"#008f00",
                 }
             ]
         },
