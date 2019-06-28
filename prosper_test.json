@@ -63,7 +63,7 @@
                     "cta_copy_color":"#008f00",
                     "cta2_url": "https://www.google.com/flights",
                     "cta2_copy": "Log in to Mint right now",
-                    "cta2_copy_color":"#a61802",
+                    "cta2_copy_color":"#a61802"
                 },
                 {
                     "module_type": "b",
@@ -75,7 +75,7 @@
                     "cta_copy_color":"#a61802",
                     "cta2_url": "https://www.google.com/flights",
                     "cta2_copy": "Log in to Chime right now",
-                    "cta2_copy_color":"#008f00",
+                    "cta2_copy_color":"#008f00"
                 }
             ]
         },
