@@ -23,7 +23,7 @@
         },
         "articles": {
             "display": true,
-            "headline": "More articles",
+            "headline": null,
             "headline_color": null,
             "headline_size": 0,
             "background_img_url": "img/logo-nerdwallet.png",
